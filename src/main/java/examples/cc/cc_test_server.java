@@ -1,3 +1,5 @@
+package examples.cc;
+
 import dk.i1.diameter.*;
 import dk.i1.diameter.node.*;
 

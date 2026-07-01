@@ -1,3 +1,5 @@
+package examples;
+
 import dk.i1.diameter.*;
 import dk.i1.diameter.node.*;
 import dk.i1.diameter.session.*;

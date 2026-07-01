@@ -1,0 +1,22 @@
+<project xmlns="http://apache.org"
+         xmlns:xsi="http://w3.org"
+         xsi:schemaLocation="http://apache.org http://apache.org">
+    <modelVersion>4.0.0</modelVersion>
+
+    <!-- Project Coordinates -->
+    <groupId>dk.i1</groupId>
+    <artifactId>JavaDiameter</artifactId>
+    <version>0.9.6.13</version>
+    <packaging>jar</packaging>
+
+    <properties>
+        <!-- Set this to your specific Java version (e.g., 11, 17, 21) -->
+        <maven.compiler.source>21</maven.compiler.source>
+        <maven.compiler.target>21</maven.compiler.target>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+    </properties>
+
+    <dependencies>
+        <!-- Add your third-party JAR dependencies here -->
+    </dependencies>
+</project>
